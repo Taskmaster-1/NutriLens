@@ -7,7 +7,7 @@ NutriLens is an intelligent nutrition analysis application that leverages Google
 ## 🌐 Deployed Application
 
 ### 🔗 Live 
-- **Streamlit Cloud**: [Nutrilens](https://nutrilenss.streamlit.app)
+- **Streamlit Cloud**: https://nutrilens-b8iq.onrender.com
 
 ## ✨ Features
 
