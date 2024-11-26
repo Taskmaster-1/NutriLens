@@ -4,11 +4,6 @@
 
 NutriLens is an intelligent nutrition analysis application that leverages Google's Gemini AI to provide instant, detailed nutritional insights from your meal images. Simply upload a picture of your food, and get a comprehensive breakdown of calories, food items, and nutritional information.
 
-## 🌐 Deployed Application
-
-### 🔗 Live 
-- **Render**: https://nutrilens-b8iq.onrender.com
-
 ## ✨ Features
 
 - 📸 Image-based Nutrition Analysis
@@ -112,6 +107,11 @@ Current Version: 1.0.0
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## 🌐 Deployed Application
+
+### 🔗 Live 
+- **Render**: https://nutrilens-b8iq.onrender.com
 
 ## 📞 Contact
 
