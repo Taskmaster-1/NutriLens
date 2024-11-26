@@ -1,6 +1,6 @@
 FROM python:3.9-slim
 
-WORKDIR /NutriLens
+WORKDIR /
 
 RUN apt-get update && apt-get install -y \
     build-essential \
@@ -11,7 +11,9 @@ RUN apt-get update && apt-get install -y \
 
 RUN git clone https://github.com/Taskmaster-1/NutriLens.git
 
-RUN pip3 install -r requirements.txt
+WORKDIR /NutriLens
+
+RUN pip install -r requirements.txt
 
 EXPOSE 8501
 
