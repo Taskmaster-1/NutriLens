@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-NutriLens is an intelligent nutrition analysis application that leverages Google's Gemini AI to provide instant, detailed nutritional insights from your meal images. Simply upload a picture of your food, and get a comprehensive breakdown of calories, food items, and nutritional information.
+NutriLens is an intelligent nutrition analysis application that leverages Google's Gemini API to provide instant, detailed nutritional insights from your meal images. Simply upload a picture of your food, and get a comprehensive breakdown of calories, food items, and nutritional information.
 
 ## ✨ Features
 
